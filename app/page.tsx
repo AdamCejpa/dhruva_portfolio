@@ -24,7 +24,6 @@ export default function Home() {
         "React.js",
         "Next.js",
         "Vue.js",
-        "TypeScript",
         "Tailwind CSS",
         "Node.js",
         "GraphQL"
@@ -137,10 +136,10 @@ export default function Home() {
                   Ready to bring your ideas to life?
                 </p>
                 <a 
-                  href="mailto:lci2021014@iiitl.ac.in" 
+                  href="mailto:dhruva05022003@gmail.com" 
                   className="text-2xl font-semibold hover:text-emerald-500 transition-colors"
                 >
-                  lci2021014@iiitl.ac.in
+                  dhruva05022003@gmail.com
                 </a>
               </div>
             </div>

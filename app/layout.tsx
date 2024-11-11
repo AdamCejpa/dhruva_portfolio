@@ -7,8 +7,8 @@ import { Toaster } from "@/components/ui/sonner";
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'John Anderson - Web & Mobile Developer',
-  description: 'Expert in React.js, Next.js, Vue.js, and Flutter development',
+  title: 'Dhruva N L Choudhary - Web & Mobile Developer',
+  description: 'Experienced in React.js, Next.js, Vue.js, and Flutter development',
 };
 
 export default function RootLayout({
